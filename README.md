@@ -1,3 +1,5 @@
+![Screenshot 2024-04-04 142513](https://github.com/masterSoumojit007/zoom-clone/assets/142225475/ed57006a-67d8-46a3-be6b-28e6a2f9ed44)
+
 # Zoom Replica 📹
 
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings, and access various meeting functionalities such as recording, screen sharing, and managing participants.
